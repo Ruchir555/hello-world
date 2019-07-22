@@ -1,3 +1,3 @@
 # hello-world
 Hello world
-This is a test file. Python >> C. 
+This is a test file. Python, C. 
